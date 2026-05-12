@@ -87,7 +87,7 @@ Ketika tombol **Simpan** ditekan, data akan disimpan ke SQLite sebagai tugas pen
 
 ### 4. Halaman Tambah Tugas Biasa
 
-![Tambah Tugas Biasa](docs/images/tambah-tugas-biasa.png)
+![Tambah Tugas Biasa](biasa.png)
 
 Halaman ini digunakan untuk menambahkan tugas dengan kategori **Biasa**.
 
@@ -103,7 +103,7 @@ Ketika tombol **Simpan** ditekan, data akan disimpan ke SQLite sebagai tugas bia
 
 ### 5. Halaman Daftar Tugas
 
-![Daftar Tugas](docs/images/daftar-tugas.png)
+![Daftar Tugas](daftar tugas.png)
 
 Halaman Daftar Tugas menampilkan seluruh data tugas yang telah disimpan, baik tugas penting maupun tugas biasa.
 
@@ -123,7 +123,7 @@ Fitur pada halaman ini:
 
 ### 6. Halaman Pengaturan
 
-![Halaman Pengaturan](docs/images/pengaturan.png)
+![Halaman Pengaturan](pengaturan.png)
 
 Halaman Pengaturan digunakan untuk mengganti password pengguna.
 
