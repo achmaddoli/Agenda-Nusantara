@@ -103,7 +103,7 @@ Ketika tombol **Simpan** ditekan, data akan disimpan ke SQLite sebagai tugas bia
 
 ### 5. Halaman Daftar Tugas
 
-![Daftar Tugas](daftar tugas.png)
+![Daftar Tugas](daftarr.png)
 
 Halaman Daftar Tugas menampilkan seluruh data tugas yang telah disimpan, baik tugas penting maupun tugas biasa.
 
